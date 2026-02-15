@@ -1,4 +1,4 @@
-# 👗 AI Fashion Recommendation System
+# AI Fashion Recommendation System
 
 An AI-powered fashion recommendation web application that analyzes
 uploaded images to:
@@ -11,19 +11,19 @@ uploaded images to:
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+## Features
 
--   🧠 Clothing detection with YOLOv8\
--   🎨 Color detection using Gemini Vision\
--   👤 Perceived gender detection\
--   🛍️ Smart product recommendations\
--   💬 AI-generated styling explanation\
--   📦 FastAPI backend + React frontend\
--   🟢 Bounding box visualization on detected clothing
+-  Clothing detection with YOLOv8\
+-  Color detection using Gemini Vision\
+-  Perceived gender detection\
+-  Smart product recommendations\
+-  AI-generated styling explanation\
+-  FastAPI backend + React frontend\
+-  Bounding box visualization on detected clothing
 
 ------------------------------------------------------------------------
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 ### Backend
 
@@ -54,7 +54,7 @@ package.json
 
 ------------------------------------------------------------------------
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 ### Backend Setup
 
@@ -98,7 +98,7 @@ Frontend runs at: http://localhost:3000
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 -   Gender detection is based on visual appearance and may not be
     accurate.
